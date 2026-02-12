@@ -1,12 +1,10 @@
 ---
 name: jobs-to-be-done-analysis
-description: Identify the functional, emotional, and social dimensions of the job
-  a customer is hiring a product to do, revealing true competition and opportunities
-  for innovation.
+description: Identify the functional, emotional, and social dimensions of the job a customer is hiring a product to do, revealing true competition and opportunities for innovation.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - jobs-to-be-done-analysis
 - writing

@@ -4,7 +4,7 @@ description: Identify the functional, emotional, and social dimensions of the jo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4291
+  version: 1.0.4292
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - jobs-to-be-done-analysis
